@@ -1,0 +1,6 @@
+age,income,credit_score,loan_amount,existing_debt,employment_years,loan_purpose,decision
+28,35000,710,10000,1500,3,car,Approved
+45,120000,780,25000,2000,20,home improvement,Approved
+22,18000,600,8000,500,1,education,Rejected
+37,50000,640,20000,8000,8,business,Rejected
+31,42000,690,12000,1000,4,car,Approved
